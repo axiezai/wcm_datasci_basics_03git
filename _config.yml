@@ -6,14 +6,14 @@
 kind: "lesson"
 
 # Overall title for pages.
-title: "What is the Shell?"
+title: "Version Control with Git"
 
 # Repository URL (without trailing slash).
-repo: https://github.com/axiezai/wcm_datasci_basics_01shell
+repo: https://github.com/axiezai/wcm_datasci_basics_03git
  
 # Root URL below username.github.io domain, with leading slash but no trailing slash.
 # For example, for 'https://neurohackweek.github.io/lesson-example', use '/lesson-example'.
-root: "/wcm_datasci_basics_01shell"
+root: "/wcm_datasci_basics_03git"
 
 # Contact email address.
 email: xix2007@med.cornell.edu
