@@ -1,2 +1,3 @@
-# Chapter 1: What is the shell 
-This is an introduction to the shell command line terinal. The material is based on the Repronim's teaching material, the [missing semester](https://missing.csail.mit.edu/), and has been modified for the data science basics course at WCM.
+# Chapter 3: Version Control
+
+This is an interactive tutorial session on version control using Git and GitHub. The material is based on ReproNim and NeuroHackademy's open source materials, and has been modified for the data science basics course at WCM.
